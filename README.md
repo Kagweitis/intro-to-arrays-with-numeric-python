@@ -1,1 +1,2 @@
-# intro-to-arrays-with-numeric-python
+# intro-to-arrays-with-numeric-python.
+also contains polynomial fitting and an illustration of mandelbrot
